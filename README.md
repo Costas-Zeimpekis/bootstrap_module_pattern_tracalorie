@@ -7,7 +7,7 @@ Enjoy and Keep on sharing!!!
 
 **Click** the icons to view the project online in:
 
-\*[On Browser](https://costas-zeimpekis.github.io/bootstrap_module_pattern_tracalorie/)
+[On Browser](https://costas-zeimpekis.github.io/bootstrap_module_pattern_tracalorie/)
 
 [![Codepen icon](img/codepen50.png)](https://codepen.io/MorpheusStudio/pen/ZxMpZX)
 -or-
